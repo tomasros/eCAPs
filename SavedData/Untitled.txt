@@ -1,0 +1,323 @@
+ 
+New default mask generated
+Type of mask: Grey matter
+Number of voxels: 7881
+
+ 
+Data correctly loaded
+Population index: 1
+
+ 
+Data correctly loaded
+Population index: 2
+
+ 
+Data correctly loaded
+Population index: 3
+
+ 
+Correct value of TR entered
+TR: 0.016667
+
+ 
+Time points selected (seed-free analysis)
+Datasets indices: 1 to 3
+Motion threshold: 0.5
+
+ 
+Valid number of clusters chosen
+Number of clusters: 5
+
+ 
+Valid percentage of data chosen
+Percentage of data: 10
+
+ 
+Valid number of resamples chosen
+Number of resamples: 10
+
+ 
+Clustering performed
+Number of clusters: 5
+Percentage of data: 10
+Number of resamples: 10
+
+ 
+Valid percentage of data chosen
+Percentage of data: 5
+
+ 
+Valid number of clusters chosen
+Number of clusters: 15
+
+ 
+Timepoint assignment performed
+Percentage of unassigned timepoints: 0
+
+ 
+Metrics computed
+Number of datasets: 3
+Number of clusters: 15
+TR: 0.016667
+
+ 
+Timepoint assignment performed
+Percentage of unassigned timepoints: 0
+
+ 
+Metrics computed
+Number of datasets: 3
+Number of clusters: 15
+TR: 0.016667
+
+ 
+Valid number of clusters chosen
+Number of clusters: 5
+
+ 
+Timepoint assignment performed
+Percentage of unassigned timepoints: 0
+
+ 
+Metrics computed
+Number of datasets: 3
+Number of clusters: 5
+TR: 0.016667
+
+ 
+Valid number of clusters chosen
+Number of clusters: 15
+
+ 
+Clustering performed
+Number of clusters: 15
+Percentage of data: 5
+Number of resamples: 10
+
+ 
+Timepoint assignment performed
+Percentage of unassigned timepoints: 0
+
+ 
+Metrics computed
+Number of datasets: 3
+Number of clusters: 15
+TR: 0.016667
+
+ 
+Valid number of clusters chosen
+Number of clusters: 5
+
+ 
+Timepoint assignment performed
+Percentage of unassigned timepoints: 0
+
+ 
+Valid number of clusters chosen
+Number of clusters: 15
+
+ 
+Timepoint assignment performed
+Percentage of unassigned timepoints: 0
+
+ 
+Metrics computed
+Number of datasets: 3
+Number of clusters: 15
+TR: 0.016667
+
+ 
+Valid number of clusters chosen
+Number of clusters: 5
+
+ 
+Clustering performed
+Number of clusters: 5
+Percentage of data: 5
+Number of resamples: 10
+
+ 
+Timepoint assignment performed
+Percentage of unassigned timepoints: 0
+
+ 
+Metrics computed
+Number of datasets: 3
+Number of clusters: 5
+TR: 0.016667
+
+ 
+Timepoint assignment performed
+Percentage of unassigned timepoints: 0
+
+ 
+Metrics computed
+Number of datasets: 3
+Number of clusters: 5
+TR: 0.016667
+
+ 
+Valid number of clusters chosen
+Number of clusters: 6
+
+ 
+Timepoint assignment performed
+Percentage of unassigned timepoints: 0
+
+ 
+Metrics computed
+Number of datasets: 3
+Number of clusters: 6
+TR: 0.016667
+
+ 
+Timepoint assignment performed
+Percentage of unassigned timepoints: 0
+
+ 
+Metrics computed
+Number of datasets: 3
+Number of clusters: 6
+TR: 0.016667
+
+ 
+Clustering performed
+Number of clusters: 6
+Percentage of data: 5
+Number of resamples: 10
+
+ 
+Timepoint assignment performed
+Percentage of unassigned timepoints: 0
+
+ 
+Metrics computed
+Number of datasets: 3
+Number of clusters: 6
+TR: 0.016667
+
+ 
+Valid number of clusters chosen
+Number of clusters: 20
+
+ 
+Clustering performed
+Number of clusters: 20
+Percentage of data: 5
+Number of resamples: 10
+
+ 
+Metrics computed
+Number of datasets: 3
+Number of clusters: 20
+TR: 0.016667
+
+ 
+Timepoint assignment performed
+Percentage of unassigned timepoints: 0
+
+ 
+Metrics computed
+Number of datasets: 3
+Number of clusters: 20
+TR: 0.016667
+
+ 
+Valid number of clusters chosen
+Number of clusters: 5
+
+ 
+Timepoint assignment performed
+Percentage of unassigned timepoints: 0
+
+ 
+Clustering performed
+Number of clusters: 5
+Percentage of data: 5
+Number of resamples: 10
+
+ 
+Timepoint assignment performed
+Percentage of unassigned timepoints: 0
+
+ 
+Metrics computed
+Number of datasets: 3
+Number of clusters: 5
+TR: 0.016667
+
+ 
+Data saved
+
+ 
+Valid number of clusters chosen
+Number of clusters: 15
+
+ 
+Clustering performed
+Number of clusters: 15
+Percentage of data: 5
+Number of resamples: 10
+
+ 
+Timepoint assignment performed
+Percentage of unassigned timepoints: 0
+
+ 
+Timepoint assignment performed
+Percentage of unassigned timepoints: 0
+
+ 
+Metrics computed
+Number of datasets: 3
+Number of clusters: 15
+TR: 0.016667
+
+ 
+Valid percentage of items chosen
+Percentage items to cluster: 20
+
+ 
+Valid number of replicates chosen
+Number of replicates: 20
+
+ 
+Valid number of Kmax chosen
+Max cluster number: 20
+
+ 
+Consensus clustering ran
+
+ 
+Timepoint assignment performed
+Percentage of unassigned timepoints: 0
+
+ 
+Metrics computed
+Number of datasets: 3
+Number of clusters: 15
+TR: 0.016667
+
+ 
+Valid number of clusters chosen
+Number of clusters: 2
+
+ 
+Clustering performed
+Number of clusters: 2
+Percentage of data: 5
+Number of resamples: 10
+
+ 
+Timepoint assignment performed
+Percentage of unassigned timepoints: 0
+
+ 
+Metrics computed
+Number of datasets: 3
+Number of clusters: 2
+TR: 0.016667
+
+ 
+Data saved
+

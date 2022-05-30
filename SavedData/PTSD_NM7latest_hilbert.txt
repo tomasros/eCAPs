@@ -1,0 +1,337 @@
+ 
+New default mask generated
+Type of mask: Grey matter
+Number of voxels: 7881
+
+ 
+Data correctly loaded
+Population index: 1
+
+ 
+Data correctly loaded
+Population index: 2
+
+ 
+Data correctly loaded
+Population index: 3
+
+ 
+Correct value of TR entered
+TR: 0.016667
+
+ 
+Time points selected (seed-free analysis)
+Datasets indices: 1 to 3
+Motion threshold: 0.5
+
+ 
+Valid number of clusters chosen
+Number of clusters: 4
+
+ 
+Valid percentage of data chosen
+Percentage of data: 80
+
+ 
+Valid number of resamples chosen
+Number of resamples: 6
+
+ 
+Valid percentile chosen
+Percentile: 0
+
+ 
+Clustering performed
+Reference group index: 1
+Number of clusters: 4
+Number of replicates: 20
+Percentage positive voxels: 80
+Percentage negative voxels: 6
+
+ 
+Valid number of clusters chosen
+Number of clusters: 5
+
+ 
+Valid percentage of data chosen
+Percentage of data: 90
+
+ 
+Valid number of resamples chosen
+Number of resamples: 18
+
+ 
+Valid number of clusters chosen
+Number of clusters: 4
+
+ 
+Clustering performed
+Reference group index: 1
+Number of clusters: 4
+Number of replicates: 20
+Percentage positive voxels: 90
+Percentage negative voxels: 18
+
+ 
+Frame assignment performed
+Group indices for which frames were assigned: 2  3
+
+ 
+Metrics computed
+Number of datasets: 3
+Number of clusters: 4
+TR: 0.016667
+
+ 
+Metrics computed
+Number of datasets: 3
+Number of clusters: 4
+TR: 0.016667
+
+ 
+Data saved
+
+ 
+Valid number of clusters chosen
+Number of clusters: 3
+
+ 
+Clustering performed
+Reference group index: 1
+Number of clusters: 3
+Number of replicates: 20
+Percentage positive voxels: 90
+Percentage negative voxels: 18
+
+ 
+Valid number of clusters chosen
+Number of clusters: 5
+
+ 
+Clustering performed
+Reference group index: 1
+Number of clusters: 5
+Number of replicates: 20
+Percentage positive voxels: 90
+Percentage negative voxels: 18
+
+ 
+Frame assignment performed
+Group indices for which frames were assigned: 2  3
+
+ 
+Metrics computed
+Number of datasets: 3
+Number of clusters: 5
+TR: 0.016667
+
+ 
+Valid project title entered
+New project title: PTSD_K5latest_hilbert
+
+ 
+Data saved
+
+ 
+Valid number of clusters chosen
+Number of clusters: 7
+
+ 
+Valid number of resamples chosen
+Number of resamples: 10
+
+ 
+Clustering performed
+Reference group index: 1
+Number of clusters: 7
+Number of replicates: 20
+Percentage positive voxels: 90
+Percentage negative voxels: 10
+
+ 
+Valid project title entered
+New project title: PTSD_K7latest_hilbert
+
+ 
+Metrics computed
+Number of datasets: 3
+Number of clusters: 7
+TR: 0.016667
+
+ 
+Frame assignment performed
+Group indices for which frames were assigned: 2  3
+
+ 
+Metrics computed
+Number of datasets: 3
+Number of clusters: 7
+TR: 0.016667
+
+ 
+Data saved
+
+ 
+Data saved
+
+ 
+Valid number of clusters chosen
+Number of clusters: 8
+
+ 
+Clustering performed
+Reference group index: 1
+Number of clusters: 8
+Number of replicates: 20
+Percentage positive voxels: 90
+Percentage negative voxels: 10
+
+ 
+Frame assignment performed
+Group indices for which frames were assigned: 2  3
+
+ 
+Metrics computed
+Number of datasets: 3
+Number of clusters: 8
+TR: 0.016667
+
+ 
+Valid project title entered
+New project title: PTSD_K8latest_hilbert
+
+ 
+Data saved
+
+ 
+Valid number of resamples chosen
+Number of resamples: 5
+
+ 
+Clustering performed
+Reference group index: 1
+Number of clusters: 8
+Number of replicates: 20
+Percentage positive voxels: 90
+Percentage negative voxels: 5
+
+ 
+Frame assignment performed
+Group indices for which frames were assigned: 2  3
+
+ 
+Metrics computed
+Number of datasets: 3
+Number of clusters: 8
+TR: 0.016667
+
+ 
+Valid project title entered
+New project title: PTSD_NMF8latest_hilbert
+
+ 
+Data saved
+
+ 
+Valid number of Kmax chosen
+Max cluster number: 12
+
+ 
+Valid percentage of items chosen
+Percentage items to cluster: 100
+
+ 
+Valid number of replicates chosen
+Number of replicates: 20
+
+ 
+Valid number of clusters chosen
+Number of clusters: 6
+
+ 
+Clustering performed
+Reference group index: 1
+Number of clusters: 6
+Number of replicates: 20
+Percentage positive voxels: 90
+Percentage negative voxels: 5
+
+ 
+Frame assignment performed
+Group indices for which frames were assigned: 2  3
+
+ 
+Metrics computed
+Number of datasets: 3
+Number of clusters: 6
+TR: 0.016667
+
+ 
+Valid project title entered
+New project title: PTSD_NMF6latest_hilbert
+
+ 
+Data saved
+
+ 
+Valid number of clusters chosen
+Number of clusters: 8
+
+ 
+Valid number of resamples chosen
+Number of resamples: 6
+
+ 
+Valid number of clusters chosen
+Number of clusters: 7
+
+ 
+Clustering performed
+Reference group index: 1
+Number of clusters: 7
+Number of replicates: 20
+Percentage positive voxels: 90
+Percentage negative voxels: 6
+
+ 
+Metrics computed
+Number of datasets: 3
+Number of clusters: 7
+TR: 0.016667
+
+ 
+Frame assignment performed
+Group indices for which frames were assigned: 2  3
+
+ 
+Metrics computed
+Number of datasets: 3
+Number of clusters: 7
+TR: 0.016667
+
+ 
+Valid project title entered
+New project title: PTSD_NM76latest_hilbert
+
+ 
+Data saved
+
+ 
+Data saved
+
+ 
+Metrics computed
+Number of datasets: 3
+Number of clusters: 7
+TR: 0.016667
+
+ 
+Data saved
+
+ 
+Valid project title entered
+New project title: PTSD_NM7latest_hilbert
+
+ 
+Data saved
+

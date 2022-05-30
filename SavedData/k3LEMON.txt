@@ -1,0 +1,369 @@
+ 
+Prefix for data loading set
+Prefix: LEMON
+
+ 
+New default mask generated
+Type of mask: Grey matter
+Number of voxels: 7881
+
+ 
+Data correctly loaded
+Population index: 1
+
+ 
+Data correctly loaded
+Population index: 2
+
+ 
+Correct value of TR entered
+TR: 0.025
+
+ 
+Time points selected (seed-free analysis)
+Datasets indices: 1 to 2
+Motion threshold: 0.5
+
+ 
+Valid number of clusters chosen
+Number of clusters: 5
+
+ 
+Valid percentage positive voxels chosen
+Percentage positive voxels: 5
+
+ 
+Valid percentage negative voxels chosen
+Percentage negative voxels: 30
+
+ 
+Clustering performed
+Reference group index: 1
+Number of clusters: 5
+Number of replicates: 20
+Percentage positive voxels: 5
+Percentage negative voxels: 30
+
+ 
+Valid percentile chosen
+Percentile: 0
+
+ 
+Frame assignment performed
+Group indices for which frames were assigned: 2
+
+ 
+Metrics computed
+Number of datasets: 2
+Number of clusters: 5
+TR: 0.025
+
+ 
+Valid percentile chosen
+Percentile: 0
+
+ 
+Frame assignment performed
+Group indices for which frames were assigned: 2
+
+ 
+Metrics computed
+Number of datasets: 2
+Number of clusters: 5
+TR: 0.025
+
+ 
+Data saved
+
+ 
+Valid project title entered
+New project title: k5LEMON
+
+ 
+Data saved
+
+ 
+Valid number of clusters chosen
+Number of clusters: 4
+
+ 
+Clustering performed
+Reference group index: 1
+Number of clusters: 4
+Number of replicates: 20
+Percentage positive voxels: 5
+Percentage negative voxels: 30
+
+ 
+Frame assignment performed
+Group indices for which frames were assigned: 2
+
+ 
+Metrics computed
+Number of datasets: 2
+Number of clusters: 4
+TR: 0.025
+
+ 
+Valid number of clusters chosen
+Number of clusters: 6
+
+ 
+Frame assignment performed
+Group indices for which frames were assigned: 2
+
+ 
+Metrics computed
+Number of datasets: 2
+Number of clusters: 6
+TR: 0.025
+
+ 
+Metrics computed
+Number of datasets: 2
+Number of clusters: 6
+TR: 0.025
+
+ 
+Frame assignment performed
+Group indices for which frames were assigned: 2
+
+ 
+Metrics computed
+Number of datasets: 2
+Number of clusters: 6
+TR: 0.025
+
+ 
+Valid number of clusters chosen
+Number of clusters: 4
+
+ 
+Frame assignment performed
+Group indices for which frames were assigned: 2
+
+ 
+Frame assignment performed
+Group indices for which frames were assigned: 2
+
+ 
+Metrics computed
+Number of datasets: 2
+Number of clusters: 4
+TR: 0.025
+
+ 
+Valid project title entered
+New project title: k4LEMON
+
+ 
+Data saved
+
+ 
+Frame assignment performed
+Group indices for which frames were assigned: 2
+
+ 
+Metrics computed
+Number of datasets: 2
+Number of clusters: 4
+TR: 0.025
+
+ 
+Valid number of clusters chosen
+Number of clusters: 6
+
+ 
+Clustering performed
+Reference group index: 1
+Number of clusters: 6
+Number of replicates: 20
+Percentage positive voxels: 5
+Percentage negative voxels: 30
+
+ 
+Frame assignment performed
+Group indices for which frames were assigned: 2
+
+ 
+Metrics computed
+Number of datasets: 2
+Number of clusters: 6
+TR: 0.025
+
+ 
+Valid percentage positive voxels chosen
+Percentage positive voxels: 10
+
+ 
+Clustering performed
+Reference group index: 1
+Number of clusters: 6
+Number of replicates: 20
+Percentage positive voxels: 10
+Percentage negative voxels: 30
+
+ 
+Valid percentage positive voxels chosen
+Percentage positive voxels: 50
+
+ 
+Valid number of Kmax chosen
+Max cluster number: 12
+
+ 
+Valid number of replicates chosen
+Number of replicates: 20
+
+ 
+Frame assignment performed
+Group indices for which frames were assigned: 2
+
+ 
+Metrics computed
+Number of datasets: 2
+Number of clusters: 6
+TR: 0.025
+
+ 
+Valid number of Kmax chosen
+Max cluster number: 13
+
+ 
+Time points selected (seed-free analysis)
+Datasets indices: 1 to 2
+Motion threshold: 0.5
+
+ 
+Valid number of Kmax chosen
+Max cluster number: 12
+
+ 
+Valid number of replicates chosen
+Number of replicates: 20
+
+ 
+Valid percentage of items chosen
+Percentage items to cluster: 60
+
+ 
+Valid percentage of items chosen
+Percentage items to cluster: 10
+
+ 
+Valid number of replicates chosen
+Number of replicates: 30
+
+ 
+Valid percentage of items chosen
+Percentage items to cluster: 33
+
+ 
+Valid number of replicates chosen
+Number of replicates: 50
+
+ 
+Valid percentage of items chosen
+Percentage items to cluster: 80
+
+ 
+Valid number of Kmax chosen
+Max cluster number: 9
+
+ 
+Valid percentage of items chosen
+Percentage items to cluster: 50
+
+ 
+Valid number of replicates chosen
+Number of replicates: 30
+
+ 
+Valid number of clusters chosen
+Number of clusters: 3
+
+ 
+Valid percentage positive voxels chosen
+Percentage positive voxels: 20
+
+ 
+Valid percentage negative voxels chosen
+Percentage negative voxels: 30
+
+ 
+Valid percentage positive voxels chosen
+Percentage positive voxels: 15
+
+ 
+Clustering performed
+Reference group index: 1
+Number of clusters: 3
+Number of replicates: 30
+Percentage positive voxels: 15
+Percentage negative voxels: 30
+
+ 
+Valid percentile chosen
+Percentile: 0
+
+ 
+Frame assignment performed
+Group indices for which frames were assigned: 2
+
+ 
+Metrics computed
+Number of datasets: 2
+Number of clusters: 3
+TR: 0.025
+
+ 
+Frame assignment performed
+Group indices for which frames were assigned: 2
+
+ 
+Metrics computed
+Number of datasets: 2
+Number of clusters: 3
+TR: 0.025
+
+ 
+Valid percentile chosen
+Percentile: 10
+
+ 
+Frame assignment performed
+Group indices for which frames were assigned: 2
+
+ 
+Metrics computed
+Number of datasets: 2
+Number of clusters: 3
+TR: 0.025
+
+ 
+Valid project title entered
+New project title: k3LEMON
+
+ 
+Data saved
+
+ 
+Valid percentile chosen
+Percentile: 0
+
+ 
+Frame assignment performed
+Group indices for which frames were assigned: 2
+
+ 
+Metrics computed
+Number of datasets: 2
+Number of clusters: 3
+TR: 0.025
+
+ 
+Data saved
+
+ 
+Data saved
+

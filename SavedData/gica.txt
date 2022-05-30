@@ -1,0 +1,130 @@
+ 
+New default mask generated
+Type of mask: Grey matter
+Number of voxels: 7881
+
+ 
+Data correctly loaded
+Population index: 1
+
+ 
+Data correctly loaded
+Population index: 2
+
+ 
+Data correctly loaded
+Population index: 3
+
+ 
+Correct value of TR entered
+TR: 0.0125
+
+ 
+Time points selected (seed-free analysis)
+Datasets indices: 1 to 3
+Motion threshold: 0.5
+
+ 
+Valid number of clusters chosen
+Number of clusters: 5
+
+ 
+Valid number of resamples chosen
+Number of resamples: 20
+
+ 
+Valid percentage of data chosen
+Percentage of data: 80
+
+ 
+Valid percentage of data chosen
+Percentage of data: 20
+
+ 
+Clustering performed
+Number of clusters: 5
+Percentage of data: 20
+Number of resamples: 20
+
+ 
+Timepoint assignment performed
+Percentage of unassigned timepoints: 0
+
+ 
+Metrics computed
+Number of datasets: 3
+Number of clusters: 5
+TR: 0.0125
+
+ 
+Data saved
+
+ 
+Clustering performed
+Number of clusters: 5
+Percentage of data: 20
+Number of resamples: 20
+
+ 
+Timepoint assignment performed
+Percentage of unassigned timepoints: 0
+
+ 
+Metrics computed
+Number of datasets: 3
+Number of clusters: 5
+TR: 0.0125
+
+ 
+Clustering performed
+Number of clusters: 5
+Percentage of data: 20
+Number of resamples: 20
+
+ 
+Metrics computed
+Number of datasets: 3
+Number of clusters: 5
+TR: 0.0125
+
+ 
+Timepoint assignment performed
+Percentage of unassigned timepoints: 0
+
+ 
+Metrics computed
+Number of datasets: 3
+Number of clusters: 5
+TR: 0.0125
+
+ 
+Valid percentage of data chosen
+Percentage of data: 50
+
+ 
+Valid number of resamples chosen
+Number of resamples: 50
+
+ 
+Clustering performed
+Number of clusters: 5
+Percentage of data: 50
+Number of resamples: 50
+
+ 
+Valid project title entered
+New project title: gica
+
+ 
+Timepoint assignment performed
+Percentage of unassigned timepoints: 0
+
+ 
+Metrics computed
+Number of datasets: 3
+Number of clusters: 5
+TR: 0.0125
+
+ 
+Data saved
+

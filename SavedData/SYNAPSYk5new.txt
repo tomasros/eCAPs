@@ -1,0 +1,85 @@
+ 
+Prefix for data loading set
+Prefix: LEMON
+
+ 
+New default mask generated
+Type of mask: Grey matter
+Number of voxels: 7881
+
+ 
+Data correctly loaded
+Population index: 1
+
+ 
+Data correctly loaded
+Population index: 2
+
+ 
+Correct value of TR entered
+TR: 0.025
+
+ 
+Valid project title entered
+New project title: SYNAPSY
+
+ 
+Time points selected (seed-free analysis)
+Datasets indices: 1 to 2
+Motion threshold: 0.5
+
+ 
+Valid number of clusters chosen
+Number of clusters: 5
+
+ 
+Valid percentage of data chosen
+Percentage of data: 20
+
+ 
+Valid number of resamples chosen
+Number of resamples: 12
+
+ 
+Valid percentage of data chosen
+Percentage of data: 5
+
+ 
+Clustering performed
+Reference group index: 1
+Number of clusters: 5
+Number of replicates: 20
+Percentage positive voxels: 5
+Percentage negative voxels: 12
+
+ 
+Valid percentile chosen
+Percentile: 0
+
+ 
+Frame assignment performed
+Group indices for which frames were assigned: 2
+
+ 
+Metrics computed
+Number of datasets: 2
+Number of clusters: 5
+TR: 0.025
+
+ 
+Frame assignment performed
+Group indices for which frames were assigned: 2
+
+ 
+Metrics computed
+Number of datasets: 2
+Number of clusters: 5
+TR: 0.025
+
+ 
+Valid project title entered
+New project title: SYNAPSYk5new
+
+ 
+Data saved
+

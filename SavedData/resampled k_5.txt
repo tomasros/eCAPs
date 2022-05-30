@@ -1,0 +1,205 @@
+ 
+Prefix for data loading set
+Prefix: Arns
+
+ 
+New default mask generated
+Type of mask: Grey matter
+Number of voxels: 7881
+
+ 
+Data correctly loaded
+Population index: 1
+
+ 
+Time points selected (seed-free analysis)
+Datasets indices: 1 to 1
+Motion threshold: 0.5
+
+ 
+Valid number of clusters chosen
+Number of clusters: 5
+
+ 
+Valid percentage positive voxels chosen
+Percentage positive voxels: 50
+
+ 
+Valid percentage negative voxels chosen
+Percentage negative voxels: 20
+
+ 
+Clustering performed
+Reference group index: 1
+Number of clusters: 5
+Number of replicates: 20
+Percentage positive voxels: 50
+Percentage negative voxels: 20
+
+ 
+Valid number of Kmax chosen
+Max cluster number: 10
+
+ 
+Valid percentage of items chosen
+Percentage items to cluster: 5
+
+ 
+Valid number of replicates chosen
+Number of replicates: 20
+
+ 
+Valid percentage of items chosen
+Percentage items to cluster: 10
+
+ 
+Valid number of replicates chosen
+Number of replicates: 30
+
+ 
+Consensus clustering ran
+
+ 
+Valid number of replicates chosen
+Number of replicates: 50
+
+ 
+Valid percentage of items chosen
+Percentage items to cluster: 50
+
+ 
+Valid number of clusters chosen
+Number of clusters: 3
+
+ 
+Clustering performed
+Reference group index: 1
+Number of clusters: 3
+Number of replicates: 50
+Percentage positive voxels: 50
+Percentage negative voxels: 20
+
+ 
+Valid number of clusters chosen
+Number of clusters: 4
+
+ 
+Valid percentage positive voxels chosen
+Percentage positive voxels: 1
+
+ 
+Valid percentage negative voxels chosen
+Percentage negative voxels: 50
+
+ 
+Clustering performed
+Reference group index: 1
+Number of clusters: 4
+Number of replicates: 50
+Percentage positive voxels: 1
+Percentage negative voxels: 50
+
+ 
+Valid percentage positive voxels chosen
+Percentage positive voxels: 5
+
+ 
+Clustering performed
+Reference group index: 1
+Number of clusters: 4
+Number of replicates: 50
+Percentage positive voxels: 5
+Percentage negative voxels: 50
+
+ 
+Valid percentage negative voxels chosen
+Percentage negative voxels: 10
+
+ 
+Valid number of clusters chosen
+Number of clusters: 5
+
+ 
+Valid percentage positive voxels chosen
+Percentage positive voxels: 80
+
+ 
+Clustering performed
+Reference group index: 1
+Number of clusters: 5
+Number of replicates: 50
+Percentage positive voxels: 80
+Percentage negative voxels: 10
+
+ 
+Valid number of clusters chosen
+Number of clusters: 6
+
+ 
+Clustering performed
+Reference group index: 1
+Number of clusters: 6
+Number of replicates: 50
+Percentage positive voxels: 80
+Percentage negative voxels: 10
+
+ 
+Valid number of clusters chosen
+Number of clusters: 9
+
+ 
+Valid percentage of items chosen
+Percentage items to cluster: 80
+
+ 
+Valid number of Kmax chosen
+Max cluster number: 12
+
+ 
+Valid number of replicates chosen
+Number of replicates: 30
+
+ 
+Consensus clustering ran
+
+ 
+Valid number of clusters chosen
+Number of clusters: 5
+
+ 
+Valid percentage negative voxels chosen
+Percentage negative voxels: 30
+
+ 
+Clustering performed
+Reference group index: 1
+Number of clusters: 5
+Number of replicates: 30
+Percentage positive voxels: 80
+Percentage negative voxels: 30
+
+ 
+Clustering performed
+Reference group index: 1
+Number of clusters: 5
+Number of replicates: 30
+Percentage positive voxels: 80
+Percentage negative voxels: 30
+
+ 
+Valid project title entered
+New project title: resampled k_5
+
+ 
+Correct value of TR entered
+TR: 0.025
+
+ 
+Metrics computed
+Number of datasets: 1
+Number of clusters: 5
+TR: 0.025
+
+ 
+Data saved
+

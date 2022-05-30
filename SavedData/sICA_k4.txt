@@ -1,0 +1,103 @@
+ 
+New default mask generated
+Type of mask: Grey matter
+Number of voxels: 7881
+
+ 
+Data correctly loaded
+Population index: 1
+
+ 
+Data correctly loaded
+Population index: 2
+
+ 
+Data correctly loaded
+Population index: 3
+
+ 
+Time points selected (seed-free analysis)
+Datasets indices: 1 to 3
+Motion threshold: 0.5
+
+ 
+Valid number of clusters chosen
+Number of clusters: 5
+
+ 
+Valid percentage of data chosen
+Percentage of data: 10
+
+ 
+Valid number of resamples chosen
+Number of resamples: 20
+
+ 
+Valid percentile chosen
+Percentile: 0
+
+ 
+Clustering performed
+Number of clusters: 5
+Percentage of data: 10
+Number of resamples: 20
+
+ 
+Timepoint assignment performed
+Percentage of unassigned timepoints: 0
+
+ 
+Metrics computed
+Number of datasets: 3
+Number of clusters: 5
+TR: -Inf
+
+ 
+Valid number of clusters chosen
+Number of clusters: 4
+
+ 
+Valid number of resamples chosen
+Number of resamples: 10
+
+ 
+Clustering performed
+Number of clusters: 4
+Percentage of data: 10
+Number of resamples: 10
+
+ 
+Timepoint assignment performed
+Percentage of unassigned timepoints: 0
+
+ 
+Metrics computed
+Number of datasets: 3
+Number of clusters: 4
+TR: -Inf
+
+ 
+Correct value of TR entered
+TR: 0.025
+
+ 
+Metrics computed
+Number of datasets: 3
+Number of clusters: 4
+TR: 0.025
+
+ 
+Valid project title entered
+New project title: siCA
+
+ 
+Valid project title entered
+New project title: sICA
+
+ 
+Valid project title entered
+New project title: sICA_k4
+
+ 
+Data saved
+

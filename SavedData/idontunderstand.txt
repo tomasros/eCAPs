@@ -1,0 +1,126 @@
+ 
+Prefix for data loading set
+Prefix: LEMON
+
+ 
+New default mask generated
+Type of mask: Grey matter
+Number of voxels: 7881
+
+ 
+Data correctly loaded
+Population index: 1
+
+ 
+Correct value of TR entered
+TR: 0.025
+
+ 
+Time points selected (seed-free analysis)
+Datasets indices: 1 to 1
+Motion threshold: 0.5
+
+ 
+Valid number of clusters chosen
+Number of clusters: 5
+
+ 
+Valid percentage of data chosen
+Percentage of data: 20
+
+ 
+Valid number of resamples chosen
+Number of resamples: 6
+
+ 
+Clustering performed
+Reference group index: 1
+Number of clusters: 5
+Number of replicates: 20
+Percentage positive voxels: 20
+Percentage negative voxels: 6
+
+ 
+Metrics computed
+Number of datasets: 1
+Number of clusters: 5
+TR: 0.025
+
+ 
+Data saved
+
+ 
+Valid project title entered
+New project title: testing123
+
+ 
+Data saved
+
+ 
+Metrics computed
+Number of datasets: 1
+Number of clusters: 5
+TR: 0.025
+
+ 
+Valid number of clusters chosen
+Number of clusters: 3
+
+ 
+Clustering performed
+Reference group index: 1
+Number of clusters: 3
+Number of replicates: 20
+Percentage positive voxels: 20
+Percentage negative voxels: 6
+
+ 
+Metrics computed
+Number of datasets: 1
+Number of clusters: 3
+TR: 0.025
+
+ 
+Data saved
+
+ 
+Data saved
+
+ 
+Data saved
+
+ 
+Valid number of clusters chosen
+Number of clusters: 4
+
+ 
+Clustering performed
+Reference group index: 1
+Number of clusters: 4
+Number of replicates: 20
+Percentage positive voxels: 20
+Percentage negative voxels: 6
+
+ 
+Valid project title entered
+New project title: testing1234
+
+ 
+Metrics computed
+Number of datasets: 1
+Number of clusters: 4
+TR: 0.025
+
+ 
+Metrics computed
+Number of datasets: 1
+Number of clusters: 4
+TR: 0.025
+
+ 
+Valid project title entered
+New project title: idontunderstand
+
+ 
+Data saved
+

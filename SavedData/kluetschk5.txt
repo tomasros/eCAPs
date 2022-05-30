@@ -1,0 +1,321 @@
+ 
+Correct value of TR entered
+TR: 0.016667
+
+ 
+New default mask generated
+Type of mask: Grey matter
+Number of voxels: 7881
+
+ 
+Valid project title entered
+New project title: kluetsch
+
+ 
+Data correctly loaded
+Population index: 1
+
+ 
+Data correctly loaded
+Population index: 2
+
+ 
+Data correctly loaded
+Population index: 3
+
+ 
+Time points selected (seed-free analysis)
+Datasets indices: 1 to 3
+Motion threshold: 0.5
+
+ 
+Valid number of clusters chosen
+Number of clusters: 5
+
+ 
+Valid percentage of data chosen
+Percentage of data: 5
+
+ 
+Valid number of resamples chosen
+Number of resamples: 5
+
+ 
+Clustering performed
+Number of clusters: 5
+Percentage of data: 5
+Number of resamples: 5
+
+ 
+Valid number of resamples chosen
+Number of resamples: 20
+
+ 
+Valid percentile chosen
+Percentile: 0
+
+ 
+Clustering performed
+Number of clusters: 5
+Percentage of data: 5
+Number of resamples: 20
+
+ 
+Valid percentage of data chosen
+Percentage of data: 20
+
+ 
+Valid number of resamples chosen
+Number of resamples: 50
+
+ 
+Clustering performed
+Number of clusters: 5
+Percentage of data: 20
+Number of resamples: 50
+
+ 
+Timepoint assignment performed
+Percentage of unassigned timepoints: 0
+
+ 
+Metrics computed
+Number of datasets: 3
+Number of clusters: 5
+TR: 0.016667
+
+ 
+Metrics computed
+Number of datasets: 3
+Number of clusters: 5
+TR: 0.016667
+
+ 
+Data saved
+
+ 
+Valid number of resamples chosen
+Number of resamples: 10
+
+ 
+Valid number of resamples chosen
+Number of resamples: 1
+
+ 
+Valid percentage of data chosen
+Percentage of data: 5
+
+ 
+Valid number of resamples chosen
+Number of resamples: 20
+
+ 
+Valid percentage of data chosen
+Percentage of data: 1
+
+ 
+Valid percentage of data chosen
+Percentage of data: 30
+
+ 
+Valid number of resamples chosen
+Number of resamples: 2
+
+ 
+Valid percentage of data chosen
+Percentage of data: 5
+
+ 
+Valid number of resamples chosen
+Number of resamples: 5
+
+ 
+Timepoint assignment performed
+Percentage of unassigned timepoints: 0
+
+ 
+Time points selected (seed-free analysis)
+Datasets indices: 1 to 3
+Motion threshold: 0.5
+
+ 
+Valid number of clusters chosen
+Number of clusters: 5
+
+ 
+Valid percentage of data chosen
+Percentage of data: 10
+
+ 
+Valid number of resamples chosen
+Number of resamples: 5
+
+ 
+Clustering performed
+Number of clusters: 5
+Percentage of data: 10
+Number of resamples: 5
+
+ 
+Valid number of resamples chosen
+Number of resamples: 25
+
+ 
+Clustering performed
+Number of clusters: 5
+Percentage of data: 10
+Number of resamples: 25
+
+ 
+Valid percentile chosen
+Percentile: 0
+
+ 
+Timepoint assignment performed
+Percentage of unassigned timepoints: 0
+
+ 
+Metrics computed
+Number of datasets: 3
+Number of clusters: 5
+TR: 0.016667
+
+ 
+Timepoint assignment performed
+Percentage of unassigned timepoints: 0
+
+ 
+Metrics computed
+Number of datasets: 3
+Number of clusters: 5
+TR: 0.016667
+
+ 
+Data saved
+
+ 
+Valid percentage of data chosen
+Percentage of data: 50
+
+ 
+Valid number of resamples chosen
+Number of resamples: 5
+
+ 
+Clustering performed
+Number of clusters: 5
+Percentage of data: 50
+Number of resamples: 5
+
+ 
+Timepoint assignment performed
+Percentage of unassigned timepoints: 0
+
+ 
+Metrics computed
+Number of datasets: 3
+Number of clusters: 5
+TR: 0.016667
+
+ 
+Data saved
+
+ 
+Valid number of clusters chosen
+Number of clusters: 7
+
+ 
+Clustering performed
+Number of clusters: 7
+Percentage of data: 50
+Number of resamples: 5
+
+ 
+Timepoint assignment performed
+Percentage of unassigned timepoints: 0
+
+ 
+Metrics computed
+Number of datasets: 3
+Number of clusters: 7
+TR: 0.016667
+
+ 
+Data saved
+
+ 
+Valid percentage of data chosen
+Percentage of data: 80
+
+ 
+Valid number of resamples chosen
+Number of resamples: 15
+
+ 
+Valid percentage of items chosen
+Percentage items to cluster: 80
+
+ 
+Valid number of replicates chosen
+Number of replicates: 20
+
+ 
+Valid number of Kmax chosen
+Max cluster number: 8
+
+ 
+Consensus clustering ran
+
+ 
+Valid number of resamples chosen
+Number of resamples: 30
+
+ 
+Clustering performed
+Number of clusters: 7
+Percentage of data: 80
+Number of resamples: 30
+
+ 
+Timepoint assignment performed
+Percentage of unassigned timepoints: 0
+
+ 
+Metrics computed
+Number of datasets: 3
+Number of clusters: 7
+TR: 0.016667
+
+ 
+Data saved
+
+ 
+Valid number of clusters chosen
+Number of clusters: 5
+
+ 
+Clustering performed
+Number of clusters: 5
+Percentage of data: 80
+Number of resamples: 30
+
+ 
+Timepoint assignment performed
+Percentage of unassigned timepoints: 0
+
+ 
+Metrics computed
+Number of datasets: 3
+Number of clusters: 5
+TR: 0.016667
+
+ 
+Data saved
+
+ 
+Valid project title entered
+New project title: kluetschk5
+
+ 
+Data saved
+

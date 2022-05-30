@@ -1,0 +1,27 @@
+Time Coverage for eCAP 1  :  Effect size= 0.5	   p= 0.0005
+Time Coverage for eCAP 2  :  Effect size= -0.4	   p= 0.002
+Time Coverage for eCAP 3  :  Effect size= -0.2	   p= 0.1
+Time Coverage for eCAP 4  :  Effect size= -0.2	   p= 0.3
+Time Coverage for eCAP 5  :  Effect size= -0.1	   p= 0.4
+Time Coverage for eCAP 6  :  Effect size= 0.4	   p= 0.007
+Time Coverage for eCAP 7  :  Effect size= 0.4	   p= 0.008
+Time Coverage for eCAP 8  :  Effect size= -0.1	   p= 0.4
+Time Coverage for eCAP 9  :  Effect size= -0.04	   p= 0.8
+Duration for eCAP 1  :  Effect size= 0.9	   p= 3e-09
+Duration for eCAP 2  :  Effect size= 0.2	   p= 0.1
+Duration for eCAP 3  :  Effect size= 0.3	   p= 0.03
+Duration for eCAP 4  :  Effect size= 0.3	   p= 0.06
+Duration for eCAP 5  :  Effect size= 0.9	   p= 3e-09
+Duration for eCAP 6  :  Effect size= 0.5	   p= 0.0002
+Duration for eCAP 7  :  Effect size= 1	   p= 1e-11
+Duration for eCAP 8  :  Effect size= 0.7	   p= 4e-06
+Duration for eCAP 9  :  Effect size= 0.6	   p= 7e-05
+Occurrence for eCAP 1  :  Effect size= -0.1	   p= 0.3
+Occurrence for eCAP 2  :  Effect size= -0.7	   p= 4e-06
+Occurrence for eCAP 3  :  Effect size= -0.5	   p= 0.001
+Occurrence for eCAP 4  :  Effect size= -0.3	   p= 0.02
+Occurrence for eCAP 5  :  Effect size= -0.6	   p= 1e-05
+Occurrence for eCAP 6  :  Effect size= -0.1	   p= 0.4
+Occurrence for eCAP 7  :  Effect size= -0.4	   p= 0.01
+Occurrence for eCAP 8  :  Effect size= -1	   p= 1e-10
+Occurrence for eCAP 9  :  Effect size= -0.6	   p= 6e-05

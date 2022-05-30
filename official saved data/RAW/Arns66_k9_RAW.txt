@@ -1,0 +1,331 @@
+ 
+New default mask generated
+Type of mask: Grey matter
+Number of voxels: 7881
+
+ 
+Data correctly loaded
+Population index: 1
+
+ 
+Data correctly loaded
+Population index: 2
+
+ 
+Data correctly loaded
+Population index: 3
+
+ 
+Correct value of TR entered
+TR: 0.025
+
+ 
+Save folder changed
+Save folder: C:
+ 
+Time points selected (seed-free analysis)
+Datasets indices: 1 to 3
+Motion threshold: 0.5
+
+ 
+Valid number of clusters chosen
+Number of clusters: 5
+
+ 
+Valid percentage of data chosen
+Percentage of data: 20
+
+ 
+Valid number of resamples chosen
+Number of resamples: 5
+
+ 
+Valid percentile chosen
+Percentile: 0
+
+ 
+Clustering performed
+Number of clusters: 5
+Percentage of data: 20
+Number of resamples: 5
+
+ 
+Timepoint assignment performed
+Percentage of unassigned timepoints: 0
+
+ 
+Metrics computed
+Number of datasets: 3
+Number of clusters: 5
+TR: 0.025
+
+ 
+Save folder changed
+Save folder: C:
+ 
+Data saved
+
+ 
+Valid project title entered
+New project title: Arns66_k5_RAW
+
+ 
+Data saved
+
+ 
+Valid percentage of data chosen
+Percentage of data: 50
+
+ 
+Clustering performed
+Number of clusters: 5
+Percentage of data: 50
+Number of resamples: 5
+
+ 
+Metrics computed
+Number of datasets: 3
+Number of clusters: 5
+TR: 0.025
+
+ 
+Data saved
+
+ 
+Valid number of resamples chosen
+Number of resamples: 7
+
+ 
+Clustering performed
+Number of clusters: 5
+Percentage of data: 50
+Number of resamples: 7
+
+ 
+Metrics computed
+Number of datasets: 3
+Number of clusters: 5
+TR: 0.025
+
+ 
+Timepoint assignment performed
+Percentage of unassigned timepoints: 0
+
+ 
+Metrics computed
+Number of datasets: 3
+Number of clusters: 5
+TR: 0.025
+
+ 
+Data saved
+
+ 
+Valid number of clusters chosen
+Number of clusters: 6
+
+ 
+Timepoint assignment performed
+Percentage of unassigned timepoints: 0
+
+ 
+Clustering performed
+Number of clusters: 6
+Percentage of data: 50
+Number of resamples: 7
+
+ 
+Timepoint assignment performed
+Percentage of unassigned timepoints: 0
+
+ 
+Metrics computed
+Number of datasets: 3
+Number of clusters: 6
+TR: 0.025
+
+ 
+Valid number of resamples chosen
+Number of resamples: 20
+
+ 
+Clustering performed
+Number of clusters: 6
+Percentage of data: 50
+Number of resamples: 20
+
+ 
+Timepoint assignment performed
+Percentage of unassigned timepoints: 0
+
+ 
+Metrics computed
+Number of datasets: 3
+Number of clusters: 6
+TR: 0.025
+
+ 
+Valid project title entered
+New project title: Arns66_k6_RAW
+
+ 
+Data saved
+
+ 
+Valid number of clusters chosen
+Number of clusters: 7
+
+ 
+Clustering performed
+Number of clusters: 7
+Percentage of data: 50
+Number of resamples: 20
+
+ 
+Timepoint assignment performed
+Percentage of unassigned timepoints: 0
+
+ 
+Timepoint assignment performed
+Percentage of unassigned timepoints: 0
+
+ 
+Metrics computed
+Number of datasets: 3
+Number of clusters: 7
+TR: 0.025
+
+ 
+Valid project title entered
+New project title: Arns66_k7_RAW
+
+ 
+Data saved
+
+ 
+Save folder changed
+Save folder: C:
+ 
+Data saved
+
+ 
+Metrics computed
+Number of datasets: 3
+Number of clusters: 7
+TR: 0.025
+
+ 
+Timepoint assignment performed
+Percentage of unassigned timepoints: 0
+
+ 
+Metrics computed
+Number of datasets: 3
+Number of clusters: 7
+TR: 0.025
+
+ 
+Data saved
+
+ 
+Valid number of clusters chosen
+Number of clusters: 8
+
+ 
+Clustering performed
+Number of clusters: 8
+Percentage of data: 50
+Number of resamples: 20
+
+ 
+Metrics computed
+Number of datasets: 3
+Number of clusters: 8
+TR: 0.025
+
+ 
+Valid project title entered
+New project title: Arns66_k8_RAW
+
+ 
+Timepoint assignment performed
+Percentage of unassigned timepoints: 0
+
+ 
+Metrics computed
+Number of datasets: 3
+Number of clusters: 8
+TR: 0.025
+
+ 
+Data saved
+
+ 
+Valid number of clusters chosen
+Number of clusters: 9
+
+ 
+Valid number of resamples chosen
+Number of resamples: 3
+
+ 
+Valid number of clusters chosen
+Number of clusters: 8
+
+ 
+Clustering performed
+Number of clusters: 8
+Percentage of data: 50
+Number of resamples: 3
+
+ 
+Timepoint assignment performed
+Percentage of unassigned timepoints: 0
+
+ 
+Metrics computed
+Number of datasets: 3
+Number of clusters: 8
+TR: 0.025
+
+ 
+Valid project title entered
+New project title: Arns66_NMF8_RAW
+
+ 
+Data saved
+
+ 
+Valid number of clusters chosen
+Number of clusters: 9
+
+ 
+Valid number of resamples chosen
+Number of resamples: 20
+
+ 
+Clustering performed
+Number of clusters: 9
+Percentage of data: 50
+Number of resamples: 20
+
+ 
+Timepoint assignment performed
+Percentage of unassigned timepoints: 0
+
+ 
+Metrics computed
+Number of datasets: 3
+Number of clusters: 9
+TR: 0.025
+
+ 
+Valid project title entered
+New project title: Arns66_k9_RAW
+
+ 
+Save folder changed
+Save folder: C:
+ 
+Data saved
+
